@@ -1,4 +1,4 @@
-:HL["/life-reboot/_next/static/chunks/3khy6-h-ak152.css","style"]
+:HL["/life-reboot/_next/static/chunks/16656ttutw15n.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"rDrtY6L3s69eiLSTx60mK","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0tFFM6S29soVAo64jwp2Z","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
